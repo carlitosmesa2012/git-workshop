@@ -1,0 +1,44 @@
+database architect role tips
+
+In depth knowledge with design patterns and architectural patterns (e.g. high availability, disaster recovery, database design, ACID, CAP, locking, transaction management)
+
+Experience with designing strategies for enterprise database systems and sets standards for operations, programming, and security
+Experience with developing, validating, publishing, and maintaining conceptual and logical data models
+Experience with database implementations, database language theories, database design, SQL, and database programming
+Experience with custom or structured extract, transform, and load (ETL) design, implementation, and maintenance
+Strong knowledge of data structures, distributed systems, multithreading programming, performance optimization.
+Respond to Production Issues and be on-call for emergency coverage in rotation with several other engineers.
+
+
+Strong understanding of MySQL database fundamentals
+* Strong understanding of MySQL Native Replication fundamentals
+* Strong understanding of MySQL database security management
+* Should have strong UNIX platform skills and understanding of network, storage, tiered application environments and security.
+* Proficiency in writing SQL procedures and functions for administration and application support
+* Strong knowledge of operating systems, Shell scripting, Perl/Python scripting is a plus
+* Good interpersonal skills along with effective communication (both written and verbal) skills.
+* Demonstrated ability to solve complex systems and database environment issues.
+* Demonstrate ability to work in a complex organization to determine business and customer needs, providing the best solution to meet those needs.
+
+
+DBA MySQL
+What Will Make You Stand Out
+Galera / XtraDB Cluster / ProxySQL
+Cloud Services such as AWS and RDS, Azure, GCP
+Nagios, Percona Monitoring Plugins (PMM) and other monitoring tools
+Configuration management solutions such as Ansible, Puppet or Chef
+Percona Toolkit suite
+MySQL DBA, Professional Certifications
+MongoDB
+PostgreSQL
+MyRocks
+Kubernetes / OpenShift / Docker
+
+Tech lead
+Lead a team of Database Administrators and Engineers with varying skill levels
+Develop and maintain relationships between the Database team and the other technology teams
+Measure team performance with metrics
+Facilitate incident response
+Participate in the Change Management and Problem Management processes
+Assumes a lead role in influencing client expectations and ensuring client satisfaction in area of responsibility and related issues.
+Reviews and performs complex analyses of DBMS products and features regarding their impact on database performance. Researches hardware and software products, recommends solutions and implements approved products
